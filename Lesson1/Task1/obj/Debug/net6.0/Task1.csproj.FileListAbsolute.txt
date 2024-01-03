@@ -1,0 +1,15 @@
+C:\уроки по изучению языков прогр\Lesson1\Task1\bin\Debug\net6.0\Task1.exe
+C:\уроки по изучению языков прогр\Lesson1\Task1\bin\Debug\net6.0\Task1.deps.json
+C:\уроки по изучению языков прогр\Lesson1\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\уроки по изучению языков прогр\Lesson1\Task1\bin\Debug\net6.0\Task1.dll
+C:\уроки по изучению языков прогр\Lesson1\Task1\bin\Debug\net6.0\Task1.pdb
+C:\уроки по изучению языков прогр\Lesson1\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\уроки по изучению языков прогр\Lesson1\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\уроки по изучению языков прогр\Lesson1\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\уроки по изучению языков прогр\Lesson1\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\уроки по изучению языков прогр\Lesson1\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\уроки по изучению языков прогр\Lesson1\Task1\obj\Debug\net6.0\Task1.dll
+C:\уроки по изучению языков прогр\Lesson1\Task1\obj\Debug\net6.0\refint\Task1.dll
+C:\уроки по изучению языков прогр\Lesson1\Task1\obj\Debug\net6.0\Task1.pdb
+C:\уроки по изучению языков прогр\Lesson1\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\уроки по изучению языков прогр\Lesson1\Task1\obj\Debug\net6.0\ref\Task1.dll
