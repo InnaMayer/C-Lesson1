@@ -1,0 +1,15 @@
+C:\уроки по изучению языков прогр\Lesson1\Task2\bin\Debug\net6.0\Task2.exe
+C:\уроки по изучению языков прогр\Lesson1\Task2\bin\Debug\net6.0\Task2.deps.json
+C:\уроки по изучению языков прогр\Lesson1\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+C:\уроки по изучению языков прогр\Lesson1\Task2\bin\Debug\net6.0\Task2.dll
+C:\уроки по изучению языков прогр\Lesson1\Task2\bin\Debug\net6.0\Task2.pdb
+C:\уроки по изучению языков прогр\Lesson1\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+C:\уроки по изучению языков прогр\Lesson1\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\уроки по изучению языков прогр\Lesson1\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+C:\уроки по изучению языков прогр\Lesson1\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+C:\уроки по изучению языков прогр\Lesson1\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+C:\уроки по изучению языков прогр\Lesson1\Task2\obj\Debug\net6.0\Task2.dll
+C:\уроки по изучению языков прогр\Lesson1\Task2\obj\Debug\net6.0\refint\Task2.dll
+C:\уроки по изучению языков прогр\Lesson1\Task2\obj\Debug\net6.0\Task2.pdb
+C:\уроки по изучению языков прогр\Lesson1\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+C:\уроки по изучению языков прогр\Lesson1\Task2\obj\Debug\net6.0\ref\Task2.dll
